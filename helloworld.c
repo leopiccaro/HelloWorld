@@ -2,7 +2,7 @@
 
 int main(){
     char pessoa[30] = "Jose";
-    if(pessoa != "Osama"){
+    if(pessoa != "Osama" || pessoal != "Rina"){
         printf("Hello World!");
     }
     else printf("Foda-se");
